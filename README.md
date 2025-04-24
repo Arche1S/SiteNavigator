@@ -140,7 +140,7 @@
                 <h3>Для расслабления</h3>
                 <p><strong>Рекомендуемые жанры:</strong> Классическая музыка, <a href="#" title="Минималистичный тип музыки с мягкими и плавными звуками, которые окутывают слушателя, создают ощущение уединённости и оторванности от внешнего мира.">эмбиент</a> и звуки природы</p>
                 <p><strong>Примеры:</strong> <a href="https://vk.com/audio-2001610351_46610351" target="_blank">Stan Getz - The Girl from Ipanema</a>, <a href="https://vk.com/audio-2001700860_5700860" target="_blank">Enya - Watermark</a>, <a href="https://vk.com/audio394533626_456243390_16296a68799c5edec7" target="_blank">Deuter - Land of Enchantment</a></p>
-		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.com/users/music-blog/playlists/2467?utm_medium=copy_link" target="_blank">Relax</a></p>
+		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.com/users/music-blog/playlists/2467?utm_medium=copy_link" target="_blank">Релакс</a></p>
             </div>
         </div>
         
@@ -150,7 +150,7 @@
                 <h3>Для прогулок</h3>
                 <p><strong>Рекомендуемые жанры:</strong> Джаз, медитативная музыка и звуки природы</p>
                 <p><strong>Примеры:</strong> Stan Getz - The Girl from Ipanema, Enya - Watermark, Deuter - Land of Enchantment</p>
-		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.com/users/music-blog/playlists/1687?utm_medium=copy_link" target="_blank">Walking On Your Own</a></p>
+		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.com/users/music-blog/playlists/1687?utm_medium=copy_link" target="_blank">Прогулка наедине с собой</a></p>
             </div>
         </div>
         
