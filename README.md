@@ -180,7 +180,7 @@
             <div>
                 <h3>Для вечеринок или в компании друзей</h3>
                 <p><strong>Рекомендуемые жанры:</strong> Различные поп-хиты и другие жанры, которые нравятся вам и окружающим</p>
-                <p><strong>Примеры:</strong> Earth, Wind & Fire - September, Bob Marley - Three Little Birds, Pharrell Williams - Happy, <a href="https://vk.com/audio-2001209455_98209455" target="_blank">Малиновая Лада - GAYAZOV$ BROTHER$</a>, <a href="https://vk.com/audio-2001283734_126283734" target="_blank">Don Diablo, Felix Jaehn - Monster</a>, <a href="https://vk.com/audio-2001344237_61344237" target="_blank">Тима Белорусских - Одуванчик</a>, <a href="https://vk.com/audio-2001267776_133267776" target="_blank">Скриптонит, даена, Miyagi & Эндшпиль - Мегаполис</a></p>
+                <p><strong>Примеры:</strong> <a href="https://vk.com/audio-2001003907_78003907" target="_blank">Earth, Wind and Fire - September</a>, <a href="https://vk.com/audio-2001893328_61893328" target="_blank">Bob Marley & The Wailers - Three Little Birds</a>, Pharrell Williams - Happy, <a href="https://vk.com/audio-2001209455_98209455" target="_blank">Малиновая Лада - GAYAZOV$ BROTHER$</a>, <a href="https://vk.com/audio-2001283734_126283734" target="_blank">Don Diablo, Felix Jaehn - Monster</a>, <a href="https://vk.com/audio-2001344237_61344237" target="_blank">Тима Белорусских - Одуванчик</a>, <a href="https://vk.com/audio-2001267776_133267776" target="_blank">Скриптонит, даена, Miyagi & Эндшпиль - Мегаполис</a></p>
 		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.ru/users/music-blog/playlists/2547?utm_source=desktop&utm_medium=copy_link" target="_blank">Для вечеринки</a></p>
             </div>
         </div>
