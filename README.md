@@ -148,8 +148,8 @@
             <div class="music-icon">🎵</div>
             <div>
                 <h3>Для прогулок</h3>
-                <p><strong>Рекомендуемые жанры:</strong> Джаз, медитативная музыка и звуки природы</p>
-                <p><strong>Примеры:</strong> Stan Getz - The Girl from Ipanema, Enya - Watermark, Deuter - Land of Enchantment</p>
+                <p><strong>Рекомендуемые жанры:</strong> Мягкая инструментальная музыка, <a href="#" title="Минималистичный тип музыки с мягкими и плавными звуками, которые окутывают слушателя, создают ощущение уединённости и оторванности от внешнего мира.">эмбиент</a>, джаз и классическая музыка</p>
+                <p><strong>Примеры:</strong> <a href="https://music.yandex.ru/album/36124205/track/137685652?utm_source=desktop&utm_medium=copy_link" target="_blank">Мегаполис - M&M</a>, <a href="https://vk.com/audio-2001542428_126542428" target="_blank">Зимавсегда - Вселенная разберётся</a>, <a href="https://music.yandex.ru/album/25346433/track/112597540?utm_source=desktop&utm_medium=copy_link" target="_blank">PIZZA, Zivert - Залипательно</a></p>
 		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.com/users/music-blog/playlists/1687?utm_medium=copy_link" target="_blank">Прогулка наедине с собой</a></p>
             </div>
         </div>
@@ -180,7 +180,7 @@
             <div>
                 <h3>Для вечеринок или в компании друзей</h3>
                 <p><strong>Рекомендуемые жанры:</strong> Различные поп-хиты и другие жанры, которые нравятся вам и окружающим</p>
-                <p><strong>Примеры:</strong> Earth, Wind & Fire - September, Bob Marley - Three Little Birds, Pharrell Williams - Happy, <a href="https://vk.com/audio-2001209455_98209455" target="_blank">Малиновая Лада - GAYAZOV$ BROTHER$</a>, <a href="https://vk.com/audio-2001283734_126283734" target="_blank">Don Diablo, Felix Jaehn - Monster</a>, <a href="https://vk.com/audio-2001344237_61344237" target="_blank">Тима Белорусских - Одуванчик</a></p>
+                <p><strong>Примеры:</strong> Earth, Wind & Fire - September, Bob Marley - Three Little Birds, Pharrell Williams - Happy, <a href="https://vk.com/audio-2001209455_98209455" target="_blank">Малиновая Лада - GAYAZOV$ BROTHER$</a>, <a href="https://vk.com/audio-2001283734_126283734" target="_blank">Don Diablo, Felix Jaehn - Monster</a>, <a href="https://vk.com/audio-2001344237_61344237" target="_blank">Тима Белорусских - Одуванчик</a>, <a href="https://vk.com/audio-2001267776_133267776" target="_blank">Скриптонит, даена, Miyagi & Эндшпиль - Мегаполис</a></p>
 		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.ru/users/music-blog/playlists/2547?utm_source=desktop&utm_medium=copy_link" target="_blank">Для вечеринки</a></p>
             </div>
         </div>
@@ -190,7 +190,7 @@
             <div>
                 <h3>Для сна</h3>
                 <p><strong>Рекомендуемые жанры:</strong> <a href="#" title="Композиции, сгенерированные с помощью искусственного интеллекта.">Нейромузыка</a>, классическая и медитативная музыка и звуки природы</p>
-                <p><strong>Примеры:</strong> Stan Getz - The Girl from Ipanema, Enya - Watermark, Deuter - Land of Enchantment</p>
+                <p><strong>Примеры:</strong> <a href="https://vk.com/artist/irvinjohnston" target="_blank">Исполнитель Irvin Johnson</a>, <a href="https://vk.com/audio-2001834066_4834066" target="_blank">Johann Sebastian Bach - 1-01-Air on the G String</a>, <a href="https://vk.com/audio-2001033913_106033913" target="_blank">hisohkah feat. WMD - School Rooftop</a></p>
 		<p><strong>Примерный плейлист:</strong> <a href="https://music.yandex.ru/users/music-blog/playlists/2541?utm_source=desktop&utm_medium=copy_link" target="_blank">Когда не можешь уснуть</a></p>
             </div>
         </div>
